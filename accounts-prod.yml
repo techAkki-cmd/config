@@ -2,7 +2,7 @@ build:
   version: "4.0"
 
 accounts:
-  message: "Welcome client for prod api:"
+  message: "{cipher}ac669ae43097a1f977b54da2b4613156ed4b0269d65eb48d678d521659260b0e57ae01dcde8f7249fbbb70d8a55e89c0"
   contact-details:
     name: "Ravi"
   onCall:
