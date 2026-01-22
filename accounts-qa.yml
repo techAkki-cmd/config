@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome client for qa queries:"
+  message: "Welcome client for qa hook qeries:"
   contact-details:
     name: "Kanak"
   onCall:
