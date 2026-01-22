@@ -1,0 +1,9 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome client for qa queries:"
+  contact-details:
+    name: "Kanak"
+  onCall:
+    -7895663492

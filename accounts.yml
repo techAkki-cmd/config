@@ -1,0 +1,9 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome client:"
+  contact-details:
+    name: "Arijit"
+  onCall:
+    -7451016676
