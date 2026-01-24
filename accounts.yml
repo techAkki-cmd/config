@@ -4,6 +4,6 @@ build:
 accounts:
   message: "Welcome client:"
   contact-details:
-    name: "Arijit Ajayy"
+    name: "Arijit Ajay"
   onCall:
     -7451016676
