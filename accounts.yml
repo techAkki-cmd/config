@@ -5,5 +5,15 @@ accounts:
   message: "Welcome client:"
   contact-details:
     name: "Arijit Ajay"
-  onCall:
-    -7451016676
+  onCall: -7451016676
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/accountsdb
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
