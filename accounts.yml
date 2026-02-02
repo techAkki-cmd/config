@@ -8,11 +8,7 @@ accounts:
   onCall: -7451016676
 
 spring:
-  datasource:
-    url: jdbc:mysql://localhost:3308/accountsdb
-    username: root
-    password: root
-    driver-class-name: com.mysql.cj.jdbc.Driver
+ 
   jpa:
     hibernate:
       ddl-auto: update
